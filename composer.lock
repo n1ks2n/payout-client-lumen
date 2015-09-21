@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "fcaf248f2ed934d961db2238b5a3ac8a",
-    "content-hash": "b294a830d4411fc4319af67d2e52b7ec",
+    "hash": "1046b5e11c88eb477624e6fb770947a7",
+    "content-hash": "fe0d76ad1bd120403ffec05bfcc7bb27",
     "packages": [
         {
             "name": "danielstjules/stringy",
@@ -1524,6 +1524,16 @@
                 "routing"
             ],
             "time": "2015-02-26 15:33:07"
+        },
+        {
+            "name": "payout-api",
+            "version": "1.0",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:freematiq/payout-api.git",
+                "reference": "master"
+            },
+            "type": "library"
         },
         {
             "name": "psr/log",
